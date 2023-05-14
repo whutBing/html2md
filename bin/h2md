@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+require('../index.js').run(process.argv);
+// console.log('process.argv: ', process.argv);

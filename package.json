@@ -1,0 +1,21 @@
+{
+  "name": "html2md",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "h2md": "./bin/h2md"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "commander": "^9.4.0",
+    "domino": "^2.1.6",
+    "download": "^8.0.0",
+    "inquirer": "^8.2.4"
+  }
+}
